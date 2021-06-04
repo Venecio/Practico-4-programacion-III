@@ -1,5 +1,5 @@
 # Practico-4-programacion-III
-8 practicos donde se usan union de archivos (include/require) y fechas (unix)
+8 ejercicios donde se usan union de archivos (include/require) y fechas (unix)
 
 1. Hacer un script php con las funciones sumar(x,y), restar(x,y), multiplicas(x,y) y dividir(x,y). Guardarlo en un archivo funciones.php
 2. Hacer un scrirpt php que reciba dos valores a y b. Luego incluir el archivo del ejercicio anterior y utilizar las funciones para hacer cálculos y mostrarlos. Probar de poner mal el nombre del archivo y ver que error reporta. Probar incluyendo el archivo con include y con require.
